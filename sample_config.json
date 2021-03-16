@@ -1,0 +1,8 @@
+{
+    "ssh_user": "",
+    "ssh_host": "",
+    "ssh_port": "",
+    "forward_port": "",
+    "local_ssh_port": "",
+    "timeout": ""
+}
